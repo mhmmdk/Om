@@ -1,2 +1,1 @@
-   - [x]   English 
-   - [ ] [Afaan Oromoo]()
+###### [Afaan Oromoo](./om)n fayyadami
