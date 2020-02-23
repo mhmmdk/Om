@@ -1,2 +1,4 @@
+- [ ] Afaan Oromoo
 # Oromo
-Oromo language kit.
+## Oromo language kit
+
