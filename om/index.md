@@ -1,4 +1,4 @@
-###### Use [English](./../).
+###### Use in [English](./../).
 
 ### Kuusaa jechoota Afaan Oromoo
 
