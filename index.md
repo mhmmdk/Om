@@ -1,4 +1,4 @@
-https://voaafaanoromoo.com
+[https://voaafaanoromoo.com]
 https://https://afaan-oromoo.com
 https://awashpost.com
 https://oromp3.com
